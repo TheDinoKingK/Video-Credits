@@ -1,0 +1,15 @@
+{
+  "name": "vid-credits-site",
+  "version": "1.0.0",
+  "description": "Individual project for video credits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Video-Credits"
+  },
+  "author": "TheDinoKingK",
+  "license": "ISC"
+}
